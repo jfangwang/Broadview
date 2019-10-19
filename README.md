@@ -2,21 +2,6 @@
 ## - Creators - Vedatman Soham Basu - Jonny Fang Wang - Wes Fortier -
 ### - Idea by - Vedatman Soham Basu
 
-# GUI Ideas
-Initial page says Welcome, (name). Fades away to the Watch Tower Page (Central Page)
-To the Left of the Watch Tower page is the Hindsight HUD and to the right is the Foresight HUD
-You access these by putting your cursor on either the Left or right 1/16, half way of the hieght of the page. 
-You are shown a preview of the page in a smaller version. and if you click you access it.
-Hindsight - Watch Tower - Foresight
-Watch tower will have one quote about hindsight and one quote about foresight
-underneath that you will find ur fico credit score and other indications about your current financial health. 
-
-Ideads about grading financial health. Overlay a Green plus sign or a Red minus sign to show whether this bank or association is benefiting or hurting you right now. you can press on it to inspect more. This inspection will show the particular parts of the account. Like if its a bank it will show ur checking account, savings, loan and net amount. Maybe also a hopeful financial quote by like Robert T K
-
-We need to ask ourselves what does the GEO tracker do other than looks very cool.
-
-Design wise I want to give the subtle feeling that you are in some kinda of Justice League Spaceship and there are three monitors infront of you. You are commanding this HUD to give oyu information about the current dituation of your finances. This app is not to teach people. This app is to allow people to make their own educated decisions. 
-
 # Table of Contents
 * [Introduction](#introduction)
 * [Functions of Broadview](#functions-of-broadview)
@@ -27,7 +12,16 @@ Design wise I want to give the subtle feeling that you are in some kinda of Just
 * [Superscript](#superscript)
 
 # Introduction
-Broadview is an application that grants users detailed hindsight and foresight into financial timeline.
+“Life can only be understood backwards; but it must be lived forwards.”
+                                                  - Saren Kierkegaard
+                                                  
+“Do not save what is left after spending; instead spend what is left after saving.”
+                                                  - Warren Buffett
+
+In a world of information, knowledge is scattered. Our objective is to organize the lives of our users to give them the data to better traverse their future.
+
+Broadview is an application that grants users a detailed look into the past and future of their financial timeline.
+
 This app uses SQL databases in node.js
 
 # Functions of Broadview
@@ -58,3 +52,18 @@ From your Broadview Watch Tower, see over all your financial connections. Watch 
 <sup>IV</sup>
 
 <sup>V</sup>
+
+# GUI Ideas
+Initial page says Welcome, (name). Fades away to the Watch Tower Page (Central Page)
+To the Left of the Watch Tower page is the Hindsight HUD and to the right is the Foresight HUD
+You access these by putting your cursor on either the Left or right 1/16, half way of the hieght of the page. 
+You are shown a preview of the page in a smaller version. and if you click you access it.
+Hindsight - Watch Tower - Foresight
+Watch tower will have one quote about hindsight and one quote about foresight
+underneath that you will find ur fico credit score and other indications about your current financial health. 
+
+Ideads about grading financial health. Overlay a Green plus sign or a Red minus sign to show whether this bank or association is benefiting or hurting you right now. you can press on it to inspect more. This inspection will show the particular parts of the account. Like if its a bank it will show ur checking account, savings, loan and net amount. Maybe also a hopeful financial quote by like Robert T K
+
+We need to ask ourselves what does the GEO tracker do other than looks very cool.
+
+Design wise I want to give the subtle feeling that you are in some kinda of Justice League Spaceship and there are three monitors infront of you. You are commanding this HUD to give oyu information about the current dituation of your finances. This app is not to teach people. This app is to allow people to make their own educated decisions. 
