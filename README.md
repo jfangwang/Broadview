@@ -6,9 +6,7 @@
   * [Foresight](#foresight)
   * [Watch Tower](#watch_tower)
 - [Superscript](#superscript)
-https://github.com/jfangwang/Broadview/blob/master/README.md#foresight
-https://github.com/jfangwang/Broadview/blob/master/README.md#watch_tower
-https://github.com/jfangwang/Broadview/blob/master/README.md#superscripts
+
 # Introduction
 Broadview is an application that grants users detailed hindsight and foresight into financial timeline.
 This app uses SQL databases in node.js
