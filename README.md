@@ -1,7 +1,11 @@
 # Broadview
 # Table of Contents
-[Introduction](#introduction)
-https://github.com/jfangwang/Broadview/blob/master/README.md#hindsight
+- [Introduction](#introduction)
+- [Functions of Broadview](#functions_of_broadview)
+  * [Hindsight](#hindsight)
+  * [Foresight](#foresight)
+  * [Watch Tower](#watch_tower)
+- [Superscript](#superscript)
 https://github.com/jfangwang/Broadview/blob/master/README.md#foresight
 https://github.com/jfangwang/Broadview/blob/master/README.md#watch_tower
 https://github.com/jfangwang/Broadview/blob/master/README.md#superscripts
