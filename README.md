@@ -19,16 +19,24 @@ From your Broadview Watch Tower, see over all your financial connections. Watch 
 ### Overview Graph
 The Overview Graph is a stich of your Hindsight and Foresight to provide an intial overview of what the app has to offer in information.
 
+*insert Figure 1*
+
 ### Financial Health Field
 The Financial Health Field has all your connections in one array and assigns them either a plus or a minus symbol to denote the net influence on your current aggregate. The size of the symbols change in respect to the magnitude of the influence.
 
+*insert Figure 2*
+
 ## Hindsight
 The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates ___a graphed timeline detailing the past influence of your cash-like finances___<sup>I, II</sup>.
+
+*insert Figure 3*
 
 - Checking Accounts + Saving Accounts + Stock - Credit Card Debt<sup>III</sup>, over time since conception
 
 ## Foresight
 The enhanced Foresight functionality from Broadview sums all assests and loans and ___projects the value of your finances 30 years into the future___, along with a best and worst possible projection of assests and loans to acknowledge uncertainty. 
+
+*insert Figure 4*
 
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>II</sup> - Credit Card Debt<sup>II</sup> - Loans
 
