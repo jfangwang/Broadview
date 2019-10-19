@@ -1,6 +1,7 @@
 # Broadview
+# Table of Contents
 
-# An Introduction
+# Introduction
 Broadview is an application that grants users detailed hindsight and foresight into financial timeline.
 This app uses SQL databases in node.js
 
