@@ -3,7 +3,11 @@
   width:900px;
   margin-top: 10%;
 }
-body {font-family: Arial; background-color: red}
+body {
+  font-family: Arial;
+  background-color: blue;
+}
+
 
 /* Style the tab */
 .tab {
