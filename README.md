@@ -35,8 +35,9 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 ## Control Panel
 The Control Panel adjusts what you are able to see amongst your Hindsight and Foresight graphs to look specifically into the developement of each asset or loan. There will be one paired to Hindsight and another to Foresight.
 
-# Superscripts
-<sup>II/sup>Fluctuations in accounts are recorded over time.
+# Superscript
+
+<sup>I</sup>Fluctuations in accounts are recorded over time.
 - Credit card debt is refreshed along side changes in the credit statement.
 
 <sup>II</sup>Interperetted without interest.
