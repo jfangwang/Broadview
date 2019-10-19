@@ -1,13 +1,13 @@
 # Broadview
 ## - Vedatman Soham Basu - Jonny Fang Wang - Wes Fortier -
 # Table of Contents
-- [Introduction](#introduction)
-- [Functions of Broadview](#functions-of-broadview)
+* [Introduction](#introduction)
+* [Functions of Broadview](#functions-of-broadview)
   * [Hindsight](#hindsight)
   * [Foresight](#foresight)
   * [Watch Tower](#watch-tower)
-   - [Geo Heat Map](#geo-heat-map)
-- [Superscript](#superscript)
+    * [Geo Heat Map](#geo-heat-map)
+* [Superscript](#superscript)
 
 # Introduction
 Broadview is an application that grants users detailed hindsight and foresight into financial timeline.
