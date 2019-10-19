@@ -1,6 +1,6 @@
 # Broadview
 # Table of Contents
-https://github.com/jfangwang/Broadview/blob/master/README.md#introduction
+[Introduction](#introduction)
 https://github.com/jfangwang/Broadview/blob/master/README.md#hindsight
 https://github.com/jfangwang/Broadview/blob/master/README.md#foresight
 https://github.com/jfangwang/Broadview/blob/master/README.md#watch_tower
