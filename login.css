@@ -1,0 +1,13 @@
+body{
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+#login{
+  padding: 50px 50px 50px 50px;
+  background-color: red;
+  border-radius: 15px;
+}
