@@ -26,6 +26,7 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>II</sup> - Credit Card Debt<sup>II</sup> - Loans
 
 ## Watch Tower
+From your Broadview Watch Tower, see over all your financial connections. Watch Towers interface gives you all you need to know about your current financial situation along with a Geo Tracker that shows where most of your expendeture is occuring ___I dont know the point of the geo tracker what about figuring up a method to assess the financial health of someone based on factors kinda like mobalytics___
 
 ### Geo Heat Map
 
