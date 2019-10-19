@@ -10,9 +10,9 @@ The enhanced Hindsight functionality from Broadview takes the users financial hi
 - Checking Accounts + Saving Accounts + Stock - Credit Card Debt<sup>II</sup>, over time since conception
 
 # Foresight
-The enhanced Foresight functionality from Broadview sums all assests and loans and projects the value of the investments 30 years into the future. 
+The enhanced Foresight functionality from Broadview sums all assests and loans and projects the value of the investments 30 years into the future, along with a best and worst possible projection of assests and loans to acknowledge uncertainty. 
 
-- Checking Accounts + Saving Accounts + Stock + Government Bonds<sup>II</sup> + Retirement Accounts + IPO investments - Credit Card Debt<sup>II</sup> - Loans
+- Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>II</sup> - Credit Card Debt<sup>II</sup> - Loans
 
 # Watch Tower
 
