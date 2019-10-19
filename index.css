@@ -1,11 +1,15 @@
-body{
-  background-color: blue;
+#curve_chart{
+  width:60%;
+  height: 120%;
+  margin-top: 10%;
 }
+body {font-family: Arial; background-color: red}
+
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  border: 1px solid black;
+  background-color: white;
 }
 
 /* Style the buttons inside the tab */
