@@ -1,34 +1,19 @@
-const mysql = require("mysql");
-
-let con = mysql.createConnection({
-    host: "35.185.83.199",
-    user: "wes",
-    password: "hackumass",
-    database: "peopledb",
-    port: 3306
-});
-
-con.connect(function(err) {
-  if (err) {
-      console.trace(err);
-      throw err;
-  }
-  console.log("Connected!");
-});
-
-var addPerson = (firstName,lastName,source,type,amount,interest,userID) => {
-    var sqlInsert = "INSERT INTO peopledb (FirstName,LastName,Source,Type,Amount,Interest,UserID) VALUES ?";
-    var values = [firstName,lastName,source,type,amount,interest,userID];
-    con.query(insertSQL, [values] ,function(error) {
-        if (error) throw error;
-        console.log("New person created!");
-    });
-};
-
-var getValue = (value) => {
-    var sqlSelect = "SELECT " + value + "FROM peopledb";
-    con.query(sqlSelect,function(error,result) {
-        if(error) throw error;
-        console.log(value + " = " + result);
-    });
+//alert("HI");
+if (typeof(Storage) !== "undefined") {
+    var firstname = "Wes";/*document.getElementById("firstname");*/
+    var lastname = "Fortier";//document.getElementById("lastname");
+    var source = "Back of America";//document.getElementById("source");
+    var type = "Amazon Mktplace";//document.getElementById("type");
+    var amount = 200//document.getElementById("amount");
+    var interest = .05//document.getElementById("interest");
+    
+    localStorage.setItem("firstname", firstname);
+    localStorage.setItem("lastname", lastname);
+    localStorage.setItem("source", source);
+    localStorage.setItem("amount", amount);
+    localStorage.setItem("interest", interest);
+    localStorage.setItem("userid", Math.floor((Math.random() * 100000) + 999999));
+    
+} else {
+    table.innerHTML = "Sorry, your browser does not support Web Storage...";
 }
