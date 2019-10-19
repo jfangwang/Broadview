@@ -1,5 +1,5 @@
 # Broadview
-## Idea by Vedatman Soham Basu, Jonny Fang Wang, Wes Fortier
+## Vedatman Soham Basu, Jonny Fang Wang, Wes Fortier
 # Table of Contents
 - [Introduction](#introduction)
 - [Functions of Broadview](#functions-of-broadview)
