@@ -26,16 +26,18 @@
       </div>
 
 <!-- Account  -->
-<form>
+<form method="post" onsubmit="call();">
 First name: <input type="text", id="FirstName", name="FirstName", placeholder="FirstName"><br>
 <!-- Last name: <input type="text" id="LastName" name="LastName" placeholder="Last-Name"><br>
 Source: <input type="text" id="Source" name="Source" placeholder="source"><br>
 Type: <input type="text" id="Type" name="Type" placeholder="type"><br>
 Amount: <input type="text" id="Amount" name="Amount" placeholder="amount"><br>
 Interest: <input type="text" id="Interest" name="Interest" placeholder="intererst"><br> -->
-<input type="submit" value="Submit">
+<button onclick="call();">Click me</button>
+<input onclick="call();">Click me</input>
 </form>
 
+  <p>  </p>
 
     <div id="center" class="tab">
       <button class="tablinks" onclick="openCity(event, 'left-tab')">left-tab</button>
