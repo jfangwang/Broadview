@@ -6,6 +6,7 @@
   * [Hindsight](#hindsight)
   * [Foresight](#foresight)
   * [Watch Tower](#watch-tower)
+   - [Geo Heat Map](#geo-heat-map)
 - [Superscript](#superscript)
 
 # Introduction
@@ -24,8 +25,9 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>II</sup> - Credit Card Debt<sup>II</sup> - Loans
 
-# Watch Tower
+## Watch Tower
 
+### Geo Heat Map
 
 # Superscripts
 <sup>I</sup>Fluctuations in accounts are recorded over time.
