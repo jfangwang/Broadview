@@ -8,7 +8,7 @@
   * [Hindsight](#hindsight)
   * [Foresight](#foresight)
   * [Watch Tower](#watch-tower)
-    * [Financial Health Tracker](#financial-health-tracker)
+    * [Financial Health Tracker](#financial-health-field)
 * [Superscript](#superscript)
 
 # Introduction                                                                                                  
