@@ -16,12 +16,12 @@ This app uses SQL databases in node.js
 # Functions of Broadview
 
 ## Hindsight
-The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates a timeline detailing the aggregate of cash-like financial influences<sup>I, II</sup>.
+The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates a ___timeline detailing the past influence of your cash-like finances___<sup>I, II</sup>.
 
 - Checking Accounts + Saving Accounts + Stock - Credit Card Debt<sup>II</sup>, over time since conception
 
 ## Foresight
-The enhanced Foresight functionality from Broadview sums all assests and loans and projects the value of the investments 30 years into the future, along with a best and worst possible projection of assests and loans to acknowledge uncertainty. 
+The enhanced Foresight functionality from Broadview sums all assests and loans and ___projects the value of your finances 30 years___ into the future, along with a best and worst possible projection of assests and loans to acknowledge uncertainty. 
 
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>II</sup> - Credit Card Debt<sup>II</sup> - Loans
 
