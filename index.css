@@ -1,7 +1,10 @@
+/* COLORS: #1a71eb */
 #curve_chart{
   height:500px;
   width:900px;
   margin-top: 10%;
+}
+button{
 }
 body {font-family: Arial; background-color: red}
 
