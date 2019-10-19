@@ -1,6 +1,6 @@
 #curve_chart{
-  width:60%;
-  height: 120%;
+  height:500px;
+  width:900px;
   margin-top: 10%;
 }
 body {font-family: Arial; background-color: red}
@@ -36,8 +36,6 @@ body {font-family: Arial; background-color: red}
 
 /* Style the tab content */
 .tabcontent {
-  display: none;
   padding: 6px 12px;
   border: 1px solid #ccc;
-  border-top: none;
 }

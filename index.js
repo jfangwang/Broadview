@@ -1,17 +1,18 @@
 console.log("It works");
+
+//Google Charts
 google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(drawChart);
-
 function drawChart() {
+  var moneyScale=0;
   var data = google.visualization.arrayToDataTable([
-  //Mock Data
+    //Mock Data
     ['Year', 'Sales', 'Expenses'],
-    ['2018',  1000,      400],
-    ['2019',  1170,      460],
-    ['2020',  0,       1120],
-    ['2021',  0,      540]
+    ['2018',  1000,      0],
+    ['2019',  1170,      0],
+    ['2020',  0,       0],
+    ['2021',  0,      0]
   ]);
-
   var options = {
     title: 'Broadview',
     curveType: 'function',
@@ -22,10 +23,10 @@ function drawChart() {
 
   chart.draw(data, options);
 }
+//End of Google Charts
 
 
-
-// Tabs
+// Tab Links
 function openCity(evt, tabs) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
@@ -39,3 +40,4 @@ function openCity(evt, tabs) {
   document.getElementById(tabs).style.display = "block";
   evt.currentTarget.className += " active";
 }
+//End of Tab Links
