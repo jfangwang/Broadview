@@ -1,6 +1,7 @@
 <html>
   <title>Broadview</title>
   <head>
+    <!-- Loads google charts script -->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <link rel="stylesheet" href="css/bootstrap.css">
     <script type="text/javascript" scr="bootstrap.js"></script>
@@ -25,17 +26,7 @@
         </div>
       </div>
 
-<!-- Account  -->
-<form method="post" onsubmit="call();">
-First name: <input type="text", id="FirstName", name="FirstName", placeholder="FirstName"><br>
-<!-- Last name: <input type="text" id="LastName" name="LastName" placeholder="Last-Name"><br>
-Source: <input type="text" id="Source" name="Source" placeholder="source"><br>
-Type: <input type="text" id="Type" name="Type" placeholder="type"><br>
-Amount: <input type="text" id="Amount" name="Amount" placeholder="amount"><br>
-Interest: <input type="text" id="Interest" name="Interest" placeholder="intererst"><br> -->
-<button onclick="call();">Click me</button>
-<input onclick="call();">Click me</input>
-</form>
+
 
   <p>  </p>
 
@@ -58,6 +49,7 @@ Interest: <input type="text" id="Interest" name="Interest" placeholder="interers
     <div id="right-tab" class="tabcontent">
       <h3>right-tab</h3>
       <p>right-tab</p>
+      <div id="chart_div"></div>
     </div>
     <!-- End of TABS -->
 
