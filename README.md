@@ -11,10 +11,7 @@
     * [Geo Heat Map](#geo-heat-map)
 * [Superscript](#superscript)
 
-# Introduction                                                  
-“Do not save what is left after spending; instead spend what is left after saving.”
-                                                  - Warren Buffett
-                                                  
+# Introduction                                                                                                  
 “Life can only be understood backwards; but it must be lived forwards.”
                                                   - Soren Kierkegaard
 
@@ -37,9 +34,14 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>III</sup> - Credit Card Debt<sup>III</sup> - Loans
 
 ## Watch Tower
-From your Broadview Watch Tower, see over all your financial connections. Watch Towers interface gives you all you need to know about your current financial situation along with a Geo Tracker that shows where most of your expendeture is occuring ___I dont know the point of the geo tracker what about figuring up a method to assess the financial health of someone based on factors kinda like mobalytics___
+From your Broadview Watch Tower, see over all your financial connections. Watch Towers interface gives you all you need to know about your current financial situation.
 
-### Geo Heat Map
+### Overview Graph
+
+The Overview Graph is a stich of your Hindsight and Foresight to provide an intial overview of what the app has to offer in information.
+
+### Financial Health Field
+The Financial Health Field has all your connections in one array and assigns them either a plus or a minus symbol to denote the net influence on your current aggregate. The size of the symbols change in respect to the magnitude of the influence.
 
 # Superscripts
 <sup>I</sup>Centralizing ones finances has the benefit of getting the big picture, but to avoid the dangers of centralization Broadview does not allow for any manipulation of ones finances.
@@ -67,3 +69,6 @@ Ideads about grading financial health. Overlay a Green plus sign or a Red minus 
 We need to ask ourselves what does the GEO tracker do other than looks very cool.
 
 Design wise I want to give the subtle feeling that you are in some kinda of Justice League Spaceship and there are three monitors infront of you. You are commanding this HUD to give oyu information about the current dituation of your finances. This app is not to teach people. This app is to allow people to make their own educated decisions. 
+
+# Excess Ideas
+ along with a Geo Tracker that shows where most of your expendeture is occuring ___I dont know the point of the geo tracker what about figuring up a method to assess the financial health of someone based on factors kinda like mobalytics___
