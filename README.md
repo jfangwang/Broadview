@@ -5,26 +5,26 @@ Broadview is an application that grants users detailed hindsight and foresight i
 This app uses SQL databases in node.js
 
 # Hindsight
-The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates a timeline detailing the aggregate of cash-like financial influences<sup>1,2</sup>.
+The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates a timeline detailing the aggregate of cash-like financial influences<sup>I,II</sup>.
 
-- Checking Accounts + Saving Accounts + Stock - Credit Card Debt<sup>2</sup>, over time since conception
+- Checking Accounts + Saving Accounts + Stock - Credit Card Debt<sup>II</sup>, over time since conception
 
 # Foresight
 The enhanced Foresight functionality from Broadview sums all assests and loans and projects the value of the investments 30 years into the future. 
 
-- Checking Accounts + Saving Accounts + Stock + Government Bonds<sup>2</sup> + Retirement Accounts + IPO investments - Credit Card Debt<sup>2</sup> - Loans
+- Checking Accounts + Saving Accounts + Stock + Government Bonds<sup>II</sup> + Retirement Accounts + IPO investments - Credit Card Debt<sup>II</sup> - Loans
 
 # Watch Tower
 
 
 # Superscripts
-<sup>1</sup>Fluctuations in accounts are recorded over time.
+<sup>I</sup>Fluctuations in accounts are recorded over time.
 - Credit card debt is refreshed along side changes in the credit statement. -
 
-<sup>2</sup>Interperetted without interest.
+<sup>II</sup>Interperetted without interest.
 
-<sup>3</sup>
+<sup>III</sup>
 
-<sup>4</sup>
+<sup>IV</sup>
 
-<sup>5</sup>
+<sup>V</sup>
