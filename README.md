@@ -5,11 +5,12 @@
 # Table of Contents
 * [Introduction](#introduction)
 * [Functions of Broadview](#functions-of-broadview)
+  * [Watch Tower](#watch-tower)
+    * [Overview Graph](#overview-graph)
+    * [Financial Health Tracker](#financial-health-field)
   * [Hindsight](#hindsight)
   * [Foresight](#foresight)
   * [Control Panel](#control-panel)
-  * [Watch Tower](#watch-tower)
-    * [Financial Health Tracker](#financial-health-field)
 * [Superscript](#superscript)
 
 # Introduction                                                                                                  
@@ -23,6 +24,14 @@ Broadview is an application that grants users a detailed look into the past and 
 This app uses SQL databases in node.js
 
 # Functions of Broadview
+## Watch Tower
+From your Broadview Watch Tower, see over all your financial connections. Watch Towers interface gives you all you need to know about your current financial situation.
+
+### Overview Graph
+The Overview Graph is a stich of your Hindsight and Foresight to provide an intial overview of what the app has to offer in information.
+
+### Financial Health Field
+The Financial Health Field has all your connections in one array and assigns them either a plus or a minus symbol to denote the net influence on your current aggregate. The size of the symbols change in respect to the magnitude of the influence.
 
 ## Hindsight
 The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates ___a graphed timeline detailing the past influence of your cash-like finances___<sup>II, III</sup>.
@@ -35,16 +44,7 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>III</sup> - Credit Card Debt<sup>III</sup> - Loans
 
 ## Control Panel
-The Control Panel adjusts what you are able to see amongst your Hindsight and Foresight graphs to look specifically into the developement of each asset or loan. There will be one for Hindsight and for Foresight.
-
-## Watch Tower
-From your Broadview Watch Tower, see over all your financial connections. Watch Towers interface gives you all you need to know about your current financial situation.
-
-### Overview Graph
-The Overview Graph is a stich of your Hindsight and Foresight to provide an intial overview of what the app has to offer in information.
-
-### Financial Health Field
-The Financial Health Field has all your connections in one array and assigns them either a plus or a minus symbol to denote the net influence on your current aggregate. The size of the symbols change in respect to the magnitude of the influence.
+The Control Panel adjusts what you are able to see amongst your Hindsight and Foresight graphs to look specifically into the developement of each asset or loan. There will be one paired to Hindsight and another to Foresight.
 
 # Superscripts
 <sup>I</sup>Centralizing ones finances has the benefit of getting the big picture, but to avoid the dangers of centralization Broadview does not allow for any manipulation of ones finances.
