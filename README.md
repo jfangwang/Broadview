@@ -1,6 +1,6 @@
 # Broadview
 ## - Creators - Vedatman Soham Basu - Jonny Fang Wang - Wes Fortier -
-### - Idea by - VSB
+### - Idea by - VSB -
 
 # Table of Contents
 * [Introduction](#introduction)
@@ -8,7 +8,7 @@
   * [Hindsight](#hindsight)
   * [Foresight](#foresight)
   * [Watch Tower](#watch-tower)
-    * [Geo Heat Map](#geo-heat-map)
+    * [Financial Health Tracker](#financial-health-tracker)
 * [Superscript](#superscript)
 
 # Introduction                                                                                                  
