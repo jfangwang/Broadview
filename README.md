@@ -19,8 +19,12 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 
 # Superscripts
 <sup>1</sup>Fluctuations in accounts are recorded over time.
-- Credit card debt is refreshed along side changes in the credit statement.
+- Credit card debt is refreshed along side changes in the credit statement. -
+
 <sup>2</sup>Interperetted without interest.
+
 <sup>3</sup>
+
 <sup>4</sup>
+
 <sup>5</sup>
