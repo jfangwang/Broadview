@@ -5,7 +5,7 @@ Broadview is an application that grants users detailed hindsight and foresight i
 This app uses SQL databases in node.js
 
 # Hindsight
-The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates a timeline detailing the aggregate of cash-like financial influences<sup>I,II</sup>.
+The enhanced Hindsight functionality from Broadview takes the users financial history starting from the conception of the account and creates a timeline detailing the aggregate of cash-like financial influences<sup>I, II</sup>.
 
 - Checking Accounts + Saving Accounts + Stock - Credit Card Debt<sup>II</sup>, over time since conception
 
