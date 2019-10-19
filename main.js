@@ -24,3 +24,11 @@ var addPerson = (firstName,lastName,source,type,amount,interest,userID) => {
         console.log("New person created!");
     });
 };
+
+var getValue = (value) => {
+    var sqlSelect = "SELECT " + value + "FROM peopledb";
+    con.query(sqlSelect,function(error,result) {
+        if(error) throw error;
+        console.log(value + " = " + result);
+    });
+}
