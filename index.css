@@ -1,13 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand:400,300,500,700,800);
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 #curve_chart{
   height:500px;
   width:900px;
   margin-top: 10%;
 }
 body {
-  font-family: Arial;
-  background-color: blue;
+  font-family: 'Quicksand', sans-serif;
+  background-image: url("images/blue-sunshine.jpg");
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
 }
-
+button{
+}
+.settings{
+  height: 30px;
+  width: 30px;
+}
+a:hover{
+  background-color: green;
+  opacity: 1;
+  transition: 0.4s;
+}
+.button-group{
+  margin: 0 10 0 10;
+}
+#center{
+  display: flex;
+  justify-content: center;
+}
+#right{
+  display: flex;
+  justify-content: flex-end;
+}
+#curve_chart{
+  display: block;
+  margin: 100;
+  display: flex;
+  justify-content: center;
+}
 
 /* Style the tab */
 .tab {

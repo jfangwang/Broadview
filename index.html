@@ -6,23 +6,28 @@
     <script type="text/javascript" scr="bootstrap.js"></script>
     <link rel="stylesheet" href="index.css">
     <script type="text/javascript" src="index.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
 
 
   </head>
   <body>
 
-    <h2>Tabs</h2>
-    <p>Welcome</p>
 
-    <nav class="navbar navbar-light bg-light">
-      <form class="form-inline">
-        <button class="btn btn-outline-success" type="button">Main button</button>
-        <button class="btn btn-sm btn-outline-secondary" type="button">Smaller button</button>
-      </form>
-    </nav>
+      <div class="row">
+        <div id="center" class="col"><h1>Broadview</h1></div>
+        <div id="center" class="col"><h1>WELCOME</h1></div>
+        <div id="right" class="col">
+          <div>
+            <button class="btn btn-outline-success" type="button">Account</button>
+            <a href=""><img src="images/settings.png" class="settings" typ><img/></a>
+          </div>
+        </div>
+      </div>
 
 
-    <div class="tab">
+
+
+    <div id="center" class="tab">
       <button class="tablinks" onclick="openCity(event, 'left-tab')">left-tab</button>
       <button class="tablinks" onclick="openCity(event, 'center-tab')">center-tab</button>
       <button class="tablinks" onclick="openCity(event, 'right-tab')">right-tab</button>
@@ -34,16 +39,17 @@
     </div>
 
     <div id="center-tab" class="tabcontent">
-      <h3>center-tab</h3>
-      <!-- center tab -->
-      <div id="curve_chart" ></div>
-      <!-- center tab end -->
+      <h3 id="center">center-tab</h3>
+      <div id="curve_chart"></div>
     </div>
 
     <div id="right-tab" class="tabcontent">
       <h3>right-tab</h3>
       <p>right-tab</p>
     </div>
+    <!-- End of TABS -->
+
+
 
 
 

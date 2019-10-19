@@ -9,14 +9,14 @@ function drawChart() {
     //Mock Data
     ['Year', 'Sales', 'Expenses'],
     ['2018',  1000,      0],
-    ['2019',  1170,      0],
-    ['2020',  0,       0],
-    ['2021',  0,      0]
+    ['2019',  100,      0],
+    ['2020',  200,       0],
+    ['2021',  1400,      0]
   ]);
   var options = {
     title: 'Broadview',
     curveType: 'function',
-    legend: { position: 'bottom' }
+    legend: { position: 'right' }
   };
 
   var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
