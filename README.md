@@ -1,6 +1,10 @@
 # Broadview
 # Table of Contents
-
+https://github.com/jfangwang/Broadview/blob/master/README.md#introduction
+https://github.com/jfangwang/Broadview/blob/master/README.md#hindsight
+https://github.com/jfangwang/Broadview/blob/master/README.md#foresight
+https://github.com/jfangwang/Broadview/blob/master/README.md#watch_tower
+https://github.com/jfangwang/Broadview/blob/master/README.md#broadviewsuperscripts
 # Introduction
 Broadview is an application that grants users detailed hindsight and foresight into financial timeline.
 This app uses SQL databases in node.js
