@@ -16,7 +16,7 @@
                                                   - Warren Buffett
                                                   
 “Life can only be understood backwards; but it must be lived forwards.”
-                                                  - Saren Kierkegaard
+                                                  - Soren Kierkegaard
 
 In a world of information, knowledge is scattered. Our objective is to organize the lives of our users to give them the data to better traverse their future.
 
