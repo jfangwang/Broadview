@@ -11,6 +11,7 @@
   * [Foresight](#foresight)
   * [Control Panel](#control-panel)
 * [Superscript](#superscript)
+* [Machine Learning](#machine-learning)
 
 # Functions of Broadview
 ## Watch Tower
