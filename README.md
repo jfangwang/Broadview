@@ -58,7 +58,5 @@ In the future, machine learning could provide an invaluable assistant which lear
 
 <sup>IV</sup>
 
-# Excess Ideas
- along with a Geo Tracker that shows where most of your expendeture is occuring ___I dont know the point of the geo tracker what about figuring up a method to assess the financial health of someone based on factors kinda like mobalytics___
-
- This app uses SQL databases in node.js
+# What did we Learn?
+HTML, Javascript, Python, SKLearn, Business, Data Structures
