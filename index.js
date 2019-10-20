@@ -2,20 +2,60 @@
 
 //Google Charts
 google.charts.load('current', {'packages':['corechart']});
-google.charts.setOnLoadCallback(drawChart);
-google.charts.setOnLoadCallback(drawBasic);
-google.charts.setOnLoadCallback(drawFuture);
+google.charts.setOnLoadCallback(drawpast);
+google.charts.setOnLoadCallback(drawfuture);
+google.charts.setOnLoadCallback(drawpresent);
 
-function drawFuture() {
+
+
+
+
+function drawfuture() {
+  var data = google.visualization.arrayToDataTable([
+
+
+
+    ['Weeks','Amount'],
+    ['1',1200],
+    ['2',2820],
+    ['3',4567],
+    ['4',6493],
+    ['5',7961],
+    ['6',9757],
+    ['7',11276],
+    ['8',12897],
+    ['9',14870],
+    ['10',16486],
+]);
+var options = {
+  title: 'Broadview',
+  curveType: 'function',
+  legend: { position: 'right' }
+};
+
+var chart = new google.visualization.LineChart(document.getElementById('forsight_chart'));
+
+chart.draw(data, options);
+
+}
+function drawpast() {
   var moneyScale=0;
 
   var data = google.visualization.arrayToDataTable([
     //Mock Data
-    ['Year', 'Sales', 'Expenses'],
-    ['2018',   200 ,      0],
-    ['2019',  100,      0],
-    ['2020',  200,       0],
-    ['2021',  1400,      0]
+
+    ['Weeks','Amount'],
+    ['1',1200],
+    ['2',8200],
+    ['3',7400],
+    ['4',2424],
+    ['5',9424],
+    ['6',8624],
+    ['7',262],
+    ['8',7262],
+    ['9',6462],
+    ['10',2000],
+
   ]);
   var options = {
     title: 'Broadview',
@@ -23,12 +63,15 @@ function drawFuture() {
     legend: { position: 'right' }
   };
 
-  var chart = new google.visualization.LineChart(document.getElementById('future_chart'));
+  var chart = new google.visualization.LineChart(document.getElementById('hindsight_chart'));
 
   chart.draw(data, options);
 }
 
-function drawBasic() {
+
+
+
+function drawpresent() {
   var moneyScale=0;
 
   var data = google.visualization.arrayToDataTable([
@@ -38,6 +81,9 @@ function drawBasic() {
     ['2019',  100,      0],
     ['2020',  200,       0],
     ['2021',  1400,      0]
+
+
+
   ]);
   var options = {
     title: 'Broadview',
@@ -45,29 +91,7 @@ function drawBasic() {
     legend: { position: 'right' }
   };
 
-  var chart = new google.visualization.LineChart(document.getElementById('basic_chart'));
-
-  chart.draw(data, options);
-}
-
-function drawChart() {
-  var moneyScale=0;
-
-  var data = google.visualization.arrayToDataTable([
-    //Mock Data
-    ['Year', 'Sales', 'Expenses'],
-    ['2018',   200 ,      0],
-    ['2019',  100,      0],
-    ['2020',  200,       0],
-    ['2021',  1400,      0]
-  ]);
-  var options = {
-    title: 'Broadview',
-    curveType: 'function',
-    legend: { position: 'right' }
-  };
-
-  var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+  var chart = new google.visualization.LineChart(document.getElementById('present_chart'));
 
   chart.draw(data, options);
 }
