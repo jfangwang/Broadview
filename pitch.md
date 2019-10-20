@@ -1,5 +1,5 @@
 # Broadview
-## - Creators - Vedatman Soham Basu - Jonny Fang Wang - Wes Micheal Fortier -
+## - Creators - Vedatman Soham Basu - Jonny Fang Wang - Wes Michael Fortier -
 ### - Idea by - VSB -
 
 # Introduction                                                                                                  
