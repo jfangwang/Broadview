@@ -44,7 +44,7 @@ The enhanced Foresight functionality from Broadview sums all assets and loans an
 The Control Panel adjusts what you are able to see amongst your Hindsight and Foresight graphs to look specifically into the development of each asset or loan. There will be one paired to Hindsight and another to Foresight.
 
 ## Machine Learning
-In the future, machine learning could provide a 
+In the future, machine learning could provide an invaluable assistant which learns along side the growth of Hindsoght to better project all values in Foresight. Recognize patterns of saving and expenditure to not just values someones checking or income as a static cash amount, but a dynamic part of the users financial protfolio.
 
 # Superscript
 <sup>I</sup>Fluctuations in accounts are recorded over time.
