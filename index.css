@@ -14,7 +14,37 @@ body {
   background-repeat: repeat;
   background-size: cover;
 }
+#right{
+  display: flex;
+  justify-content: flex-end;
+}
+#left{
+  display: flex;
+  justify-content: flex-end;
+}
+.endTabs button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.5s;
+}
+.endtabs button:hover{
+  opacity: 1;
+}
+.left-arrow{
+  height: 10%;
+  width:10%;
+}
+.main{
+  display: flex;
+  justify-content: space-between;
 
+}
 .settings{
   height: 30px;
   width: 30px;
@@ -72,6 +102,8 @@ img:hover{
 
 /* Style the tab content */
 .tabcontent {
-  padding: 6px 12px;
-  border: 1px solid #ccc;
+  border: 0px solid #ccc;
+  height:700px;
+  display: flex;
+  justify-content: center;
 }

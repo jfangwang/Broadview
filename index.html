@@ -12,7 +12,7 @@
 
 
   </head>
-  <body>
+  <body onload="hide()">
 
 
       <div class="row">
@@ -21,7 +21,7 @@
         <div id="right" class="col">
           <div>
             <button class="btn btn-outline-success" type="button">Account</button>
-            <a href=""><img src="images/settings.png" class="settings" typ><img/></a>
+            <a><img src="images/settings.png" class="settings" typ><img/></a>
           </div>
         </div>
       </div>
@@ -31,26 +31,33 @@
   <p>  </p>
 
     <div id="center" class="tab">
-      <button class="tablinks" onclick="openCity(event, 'left-tab')">left-tab</button>
-      <button class="tablinks" onclick="openCity(event, 'center-tab')">center-tab</button>
-      <button class="tablinks" onclick="openCity(event, 'right-tab')">right-tab</button>
+      <button class="tablinks" onclick="openCity(event, 'center-tab')">Home</button>
+    </div>
+  <div class="main">
+
+    <div id="left" class="endTabs">
+      <button class="tablinks " onclick="openCity(event, 'left-tab')"> Past</button>
     </div>
 
-    <div id="left-tab" class="tabcontent">
-      <h3>left-tab</h3>
-      <p>left-tab</p>
+    <div id="left-tab" class="tabcontent hide">
+      <h3 id="center">Past</h3>
+      <div id="basic_chart"></div>
     </div>
 
     <div id="center-tab" class="tabcontent">
-      <h3 id="center">center-tab</h3>
+      <h3 id="center">Present</h3>
       <div id="curve_chart"></div>
     </div>
 
-    <div id="right-tab" class="tabcontent">
-      <h3>right-tab</h3>
-      <p>right-tab</p>
-      <div id="chart_div"></div>
+    <div id="right-tab" class="tabcontent hide">
+      <h3 id="center">Future</h3>
+      <div id="future_chart"></div>
     </div>
+
+    <div id="right" class="endTabs">
+            <button class="tablinks " onclick="openCity(event, 'right-tab')">Future</button>
+    </div>
+  </div>
     <!-- End of TABS -->
 
 
