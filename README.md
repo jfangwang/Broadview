@@ -10,21 +10,10 @@
   * [Hindsight](#hindsight)
   * [Foresight](#foresight)
   * [Control Panel](#control-panel)
+  * [SQL](#sql)
 * [Superscript](#superscript)
 
 # Functions of Broadview
-## Watch Tower
-From your Broadview Watch Tower, see over all your accounts. Watch Towers interface gives you all you need to know about your current financial situation.
-
-### Overview Graph
-The Overview Graph is a stich of your Hindsight and Foresight to provide an intial overview of what the app has to offer in information.
-
-*insert Figure 1*
-
-### Financial Health Field
-The Financial Health Field has all your accounts in one array and assigns them either a plus or a minus symbol to denote the net influence on your current aggregate. The size of the symbols change in respect to the magnitude of the influence.
-
-*insert Figure 2*
 
 ## Hindsight
 The enhanced Hindsight functionality from Broadview takes the users financial history starting from the inceotion of the account and creates ___a graphed timeline detailing the past influence of your cash-like finances___<sup>I, II</sup>.
@@ -40,11 +29,23 @@ The enhanced Foresight functionality from Broadview sums all assests and loans a
 
 - Checking Accounts + Saving Accounts + Retirement Accounts + Stock & IPO investments + Government Bonds<sup>II</sup> - Credit Card Debt<sup>II</sup> - Loans
 
+## Watch Tower
+From your Broadview Watch Tower, see over all your accounts. Watch Towers interface gives you all you need to know about your current financial situation.
+
+### Overview Graph
+The Overview Graph is a stich of your Hindsight and Foresight to provide an intial overview of what the app has to offer in information.
+
+*insert Figure 1*
+
+### Financial Health Field
+The Financial Health Field has all your accounts in one array and assigns them either a plus or a minus symbol to denote the net influence on your current aggregate. The size of the symbols change in respect to the magnitude of the influence.
+
+*insert Figure 2*
+
 ## Control Panel
 The Control Panel adjusts what you are able to see amongst your Hindsight and Foresight graphs to look specifically into the developement of each asset or loan. There will be one paired to Hindsight and another to Foresight.
 
 # Superscript
-
 <sup>I</sup>Fluctuations in accounts are recorded over time.
 - Credit card debt is refreshed along side changes in the credit statement.
 
