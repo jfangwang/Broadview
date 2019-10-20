@@ -1,5 +1,5 @@
 # Broadview (READ ME)
-## - Creators - Vedatman Soham Basu - Jonny Fang Wang - Wes Fortier -
+## - Creators - Vedatman Soham Basu - Jonny Fang Wang - Wes Michael Fortier -
 ### - Idea by - VSB -
 
 # Table of Contents
