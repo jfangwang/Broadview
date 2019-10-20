@@ -9,11 +9,13 @@
     <script type="text/javascript" src="index.js"></script>
     <link rel="shortcut icon" href="images/b.jpg"/>
     <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-
-
+    <link href="stylesheets/c3.css" rel="stylesheet" type="text/css">
+    <script src="javascripts/d3.v3.min.js" charset="utf-8"></script>
+		<script src="javascripts/c3.min.js"></script>
+    <script src="javascripts/papaparse.min.js"></script>
+    <script src="javascripts/create-graph.js"></script>
   </head>
   <body onload="hide()">
-
 
       <div class="row">
         <div id="center" class="col"><h1>Broadview</h1></div>
@@ -31,7 +33,7 @@
   <p>  </p>
 
     <div id="center" class="tab">
-      <button class="tablinks" onclick="openCity(event, 'center-tab')">Home</button>
+      <button class="tablinks" onclick="openCity(event, 'center-tab')">Watch Tower</button>
     </div>
   <div class="main">
 
@@ -46,7 +48,8 @@
 
     <div id="center-tab" class="tabcontent">
       <h3 id="center">Present</h3>
-      <div id="curve_chart"></div>
+      <div id="curve_chart" ></div>
+      <!-- <div id="chart"></div> -->
     </div>
 
     <div id="right-tab" class="tabcontent hide">

@@ -3,8 +3,8 @@
  */
 function parseData(createGraph) {
 	Papa.parse("../data/spanish-silver.csv", {
-		download: true,
 		complete: function(results) {
+			console.log(results.data);
 			createGraph(results.data);
 		}
 	});

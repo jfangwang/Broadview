@@ -22,6 +22,9 @@ body {
   display: flex;
   justify-content: flex-end;
 }
+.graph{
+
+}
 .endTabs button{
   background-color: #4CAF50; /* Green */
   border: none;
@@ -64,11 +67,26 @@ img:hover{
   display: flex;
   justify-content: flex-end;
 }
-#curve_chart{
-  display: block;
-  margin: 100;
+#curve_chart {
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 40%;
+  width: 100%;
+}
+#basic_chart{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+  width: 100%;
+}
+#future_chart{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+  width: 100%;
 }
 
 /* Style the tab */
